@@ -1,0 +1,9 @@
+
+# Local secrets — never commit
+.env
+
+# Local uploads and generated files
+/media/
+__pycache__/
+*.py[cod]
+.DS_Store
